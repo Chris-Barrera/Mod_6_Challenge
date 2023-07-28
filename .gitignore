@@ -77,6 +77,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+# Adding config.py file.
+api_keys.py
 
 # IPython
 profile_default/
